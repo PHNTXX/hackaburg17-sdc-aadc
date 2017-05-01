@@ -1,0 +1,17 @@
+{
+  "name": "baldwin",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/speech": "^0.9.1",
+    "aplay": "^1.1.0",
+    "aws-sdk": "^2.45.0",
+    "natural": "^0.4.0",
+    "node-record-lpcm16": "^0.1.8",
+    "play-sound": "^1.1.1",
+    "request": "^2.81.0",
+    "serialport": "^4.0.7",
+    "snowboy": "^1.1.0"
+  }
+}
